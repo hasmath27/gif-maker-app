@@ -1,4 +1,3 @@
-````md
 # 🎞️ GIF Maker App (Python Tkinter)
 
 A simple desktop application built using **Python Tkinter** that allows users to select multiple images and convert them into an animated GIF. The app includes image preview, adjustable speed control, and progress tracking.
