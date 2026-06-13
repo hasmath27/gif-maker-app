@@ -67,6 +67,4 @@ python gif_maker_app.py
 6. Click **🎬 Create GIF**
 7. Choose location to save your GIF file
 
----
-
 ```
