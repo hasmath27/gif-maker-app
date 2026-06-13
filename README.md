@@ -66,5 +66,3 @@ python gif_maker_app.py
 5. Adjust GIF speed using the slider
 6. Click **🎬 Create GIF**
 7. Choose location to save your GIF file
-
-```
